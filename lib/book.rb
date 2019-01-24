@@ -4,7 +4,6 @@ class Book
   def initialize(title, pages)
     @title = title
     @pages = pages
-    @owner = nil
   end
 
 end
